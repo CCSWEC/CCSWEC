@@ -6,6 +6,7 @@
 - help each other build strong portfolios.
 
 **Info**
+
 In the Fall of 2023, there were a series of workshops on Version Control Using Git/Github. We will not be repeating the workshops in the following semesters, instead, we have recorded the workshops and created slides as well that will enable new members to get up to speed so they can particitipate in Projects as well. Here are the links:
 
 **Version Control With Git/GitHub Part I**
