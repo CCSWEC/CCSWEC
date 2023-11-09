@@ -15,6 +15,6 @@ Video -> https://youtu.be/hPD4zL32y7g
 
 Slides -> https://collin.campuslabs.com/engage/organization/CCSWE/documents/view/2263965
 
-Version Control With Git/Github Part II
+**Version Control With Git/Github Part II**
 
 Video -> https://youtu.be/k2GGMx1F8L0
