@@ -17,6 +17,4 @@ Slides -> https://collin.campuslabs.com/engage/organization/CCSWE/documents/view
 
 Version Control With Git/Github Part II
 
-Video ->
-
-Slides ->
+Video -> https://youtu.be/k2GGMx1F8L0
